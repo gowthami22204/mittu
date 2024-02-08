@@ -153,6 +153,7 @@ for i in range(1,8):
 
 
 ##10'''
+'''
 for i in range(1, 4):
     for j in range(1,11):
         print(i ,'*', j ,'=',i*j)
@@ -195,9 +196,6 @@ for i in range(1, 4):
 3 * 7 = 21
 3 * 8 = 24
 3 * 9 = 27
-3 * 10 = 30
+3 * 10 = 30'''
 
-    
-
-
-
+print("hellow world++++++++++++++++++++++++++")
