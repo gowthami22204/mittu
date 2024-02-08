@@ -198,8 +198,18 @@ for i in range(1, 4):
 3 * 9 = 27
 3 * 10 = 30'''
 
-print("hellow world++++++++++++++++++++++++++")
+# print("hellow world++++++++++++++++++++++++++")
 
-a=4
-b=3
-print(a+b)
+# a=4
+# b=3
+# print(a+b)
+
+# print("show merge changes")
+
+
+def add(a,b):
+    # a=6
+    # b=13
+    return a+b
+result=add(2,4)
+print(result)    
