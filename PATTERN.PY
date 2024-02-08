@@ -199,3 +199,7 @@ for i in range(1, 4):
 3 * 10 = 30'''
 
 print("hellow world++++++++++++++++++++++++++")
+
+a=4
+b=3
+print(a+b)
